@@ -1,4 +1,4 @@
-# 
+# secure deribit trading bot Executor | market-making + price-monitoring is the best deribit trading bot, featuring market-making and price-monitoring. Smart, fast, and optimized
 
 
 
